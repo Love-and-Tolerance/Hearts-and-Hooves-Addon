@@ -1,0 +1,52 @@
+{
+   "variants": {
+      "axis=x": [{
+         "model": "minecraft:block/acacia_log",
+         "weight": 16, "x": 90, "y": 90
+      }, {
+         "model": "minecraft:block/acacia_log_north",
+         "weight": 1, "x": 90, "y": 90
+      }, {
+         "model": "minecraft:block/acacia_log_east",
+         "weight": 1, "x": 90, "y": 90
+      }, {
+         "model": "minecraft:block/acacia_log_south",
+         "weight": 1, "x": 90, "y": 90
+      }, {
+         "model": "minecraft:block/acacia_log_west",
+         "weight": 1, "x": 90, "y": 90
+      }],
+      "axis=y": [{
+         "model": "minecraft:block/acacia_log",
+         "weight": 16
+      }, {
+         "model": "minecraft:block/acacia_log_north",
+         "weight": 1
+      }, {
+         "model": "minecraft:block/acacia_log_east",
+         "weight": 1
+      }, {
+         "model": "minecraft:block/acacia_log_south",
+         "weight": 1
+      }, {
+         "model": "minecraft:block/acacia_log_west",
+         "weight": 1
+      }],
+      "axis=z": [{
+         "model": "minecraft:block/acacia_log",
+         "weight": 16, "x": 90
+      }, {
+         "model": "minecraft:block/acacia_log_north",
+         "weight": 1, "x": 90
+      }, {
+         "model": "minecraft:block/acacia_log_east",
+         "weight": 1, "x": 90
+      }, {
+         "model": "minecraft:block/acacia_log_south",
+         "weight": 1, "x": 90
+      }, {
+         "model": "minecraft:block/acacia_log_west",
+         "weight": 1, "x": 90
+      }]
+   }
+}
