@@ -1,0 +1,11 @@
+{
+   "parent": "block/cube",
+   "textures": {
+      "up": "minecraft:block/jungle_log_top",
+      "down": "minecraft:block/jungle_log_top",
+      "north": "minecraft:block/jungle_log",
+      "east": "minecraft:block/jungle_log",
+      "south": "minecraft:block/jungle_log_horseshoe",
+      "west": "minecraft:block/jungle_log"
+   }
+}
