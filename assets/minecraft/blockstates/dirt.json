@@ -1,0 +1,29 @@
+{
+   "variants": {
+      "": [{
+         "model": "minecraft:block/dirt",
+         "weight": 19
+      }, {
+         "model": "minecraft:block/dirt",
+         "weight": 19, "y": 90
+      }, {
+         "model": "minecraft:block/dirt",
+         "weight": 19, "y": 180
+      }, {
+         "model": "minecraft:block/dirt",
+         "weight": 19, "y": 270
+      }, {
+         "model": "minecraft:block/dirt_heart",
+         "weight": 1
+      }, {
+         "model": "minecraft:block/dirt_heart",
+         "weight": 1, "y": 90
+      }, {
+         "model": "minecraft:block/dirt_heart",
+         "weight": 1, "y": 180
+      }, {
+         "model": "minecraft:block/dirt_heart",
+         "weight": 1, "y": 270
+      }]
+   }
+}
