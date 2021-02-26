@@ -1,5 +1,7 @@
 # Love & Tolerance: Hearts & Hooves Addon
 
+![L&T: Hearts & Hooves](https://repository-images.githubusercontent.com/338215214/945e5a80-77f0-11eb-8fe8-fe17c5465a18)
+
 [![Downloads](https://img.shields.io/github/downloads/Love-and-Tolerance/Hearts-and-Hooves-Addon/total.svg?color=blue)](https://github.com/Love-and-Tolerance/Hearts-and-Hooves-Addon/releases/latest) [![Discord Server](https://img.shields.io/discord/621069869244350468.svg?color=blueviolet)](https://discord.gg/fxNMGvm)
 
 This is a Minecraft resource pack addon for Love & Tolerance, a resource pack inspired by the visual art style and design of the show _My Little Pony: Friendship is Magic_. Bright colours and (moderate) pony references abound!
